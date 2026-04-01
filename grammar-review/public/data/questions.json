@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "title": "第1章 重要構文の問題",
+    "source": "英文法問題集",
+    "student": "",
+    "created": "2026-04-01",
+    "total_questions": 10,
+    "wrong_count": 10
+  },
+  "questions": [
+    {
+      "id": "3-07",
+      "section": "空所補充",
+      "japanese": "きみのレインコートがなかったら、私はずぶぬれになっていただろう。",
+      "english_blank": "(___) your raincoat, I would have been drenched to the skin.",
+      "correct_answer": "If it had not been for / But for",
+      "student_answer": "If it had not for",
+      "grammar_tag": "仮定法過去完了",
+      "university": "京都薬科大",
+      "explanation": "been が抜けている。If it had not been for ～ = ～がなかったら"
+    },
+    {
+      "id": "2-v1",
+      "section": "適語補充",
+      "japanese": "時間があったら、もっとできたのだが。",
+      "english_blank": "I could have done more, if I (___)(___) time.",
+      "correct_answer": "had had",
+      "student_answer": "have had",
+      "grammar_tag": "仮定法過去完了",
+      "university": "創価大",
+      "explanation": "仮定法過去完了は if + had + 過去分詞。had had は「持っていたならば」"
+    },
+    {
+      "id": "1-04",
+      "section": "適語補充",
+      "japanese": "自分の家庭を愛さない人はいない。",
+      "english_blank": "There is no man (___) loves his home.",
+      "correct_answer": "but",
+      "student_answer": "who",
+      "grammar_tag": "二重否定（no...but）",
+      "university": "関西大",
+      "explanation": "but = who ... not の意味。no man but loves = 愛さない人はいない（二重否定→全肯定）"
+    },
+    {
+      "id": "1-35",
+      "section": "適語補充",
+      "japanese": "学生にもっと考えさせるような本を読ませなさい。",
+      "english_blank": "Have students read such books (___) will make them think more.",
+      "correct_answer": "as",
+      "student_answer": "which",
+      "grammar_tag": "such...as（関係代名詞）",
+      "university": "成蹊大",
+      "explanation": "such の後は関係代名詞 as で受ける。which ではない"
+    },
+    {
+      "id": "1-45",
+      "section": "適語補充",
+      "japanese": "そこで彼に会おうとは思ってもみなかった。",
+      "english_blank": "(___) did I expect that I would see him there.",
+      "correct_answer": "Little",
+      "student_answer": "Nothing",
+      "grammar_tag": "否定語文頭倒置",
+      "university": "学習院大",
+      "explanation": "Little did I ～ の形。副詞 Little が文頭に来て倒置が起きる"
+    },
+    {
+      "id": "1-57",
+      "section": "適語補充",
+      "japanese": "ビルは1日おきに釣りに行く。",
+      "english_blank": "Every (___) day Bill goes fishing.",
+      "correct_answer": "other",
+      "student_answer": "two",
+      "grammar_tag": "every other（1つおき）",
+      "university": "都立大",
+      "explanation": "every other day = 1日おき。every two days も同義だが空所1語では other"
+    },
+    {
+      "id": "1-59",
+      "section": "適語補充",
+      "japanese": "その彫刻は非常に貴重である。",
+      "english_blank": "The sculptures are (___) great value.",
+      "correct_answer": "of",
+      "student_answer": "very",
+      "grammar_tag": "be of＋名詞",
+      "university": "大阪経済大",
+      "explanation": "be of + 抽象名詞 = 形容詞相当。of great value = very valuable"
+    },
+    {
+      "id": "1-68",
+      "section": "適語補充",
+      "japanese": "これが私たちが日本の労働者と大変違っているところです。",
+      "english_blank": "This is (___) we differ very much from Japanese workers.",
+      "correct_answer": "where",
+      "student_answer": "that",
+      "grammar_tag": "関係副詞where",
+      "university": "中央大",
+      "explanation": "先行詞を含む関係副詞 where。「～するところ（点）」の意味"
+    },
+    {
+      "id": "1-72",
+      "section": "適語補充",
+      "japanese": "彼の私を見る目つきがとても気にさわった。",
+      "english_blank": "The (___) he looked at me irritated me very much.",
+      "correct_answer": "way",
+      "student_answer": "eye",
+      "grammar_tag": "the way＋S＋V",
+      "university": "立教大",
+      "explanation": "the way S+V = ～するやり方・様子。関係副詞的用法"
+    },
+    {
+      "id": "4-40",
+      "section": "並べ替え",
+      "japanese": "言っておくが、私に怒ってもはじまらないよ。",
+      "english_blank": "I (being/you/your/its/with/angry/no/good/tell) me.",
+      "correct_answer": "tell you it's no good your being angry with",
+      "student_answer": "tell you it's no good being your angry with",
+      "grammar_tag": "動名詞の意味上の主語",
+      "university": "立命館大",
+      "explanation": "所有格 + 動名詞の語順。your being angry が正しい"
+    }
+  ]
+}
